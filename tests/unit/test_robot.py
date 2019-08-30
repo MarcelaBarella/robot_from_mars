@@ -1,4 +1,5 @@
 import pytest
+
 from errors.robot_errors import (InvalidCommandError, InvalidCoordinateError,
                                  InvalidMovementError)
 from src.robot import Robot

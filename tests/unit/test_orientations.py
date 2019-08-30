@@ -1,4 +1,5 @@
 import pytest
+
 from errors.orientation_errors import InvalidOrientationError
 from src.orientations import Orientations
 
