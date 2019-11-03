@@ -4,7 +4,6 @@ Simple robot controller of robot.
 
 ## Technologies
 Solution created using python 3.6.7 and the following technologies:
-- [Click](https://click.palletsprojects.com/en/7.x/) - Package for creating command line interfaces
 - [Pytest](https://docs.pytest.org/en/latest/)-Framework to writte tests for applications and libraries.
 
 ## Running solution with Docker
